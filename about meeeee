@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About me</title>
+    <link rel="style sheet"href="style.css">
+
+</head>
+<body>
+<header>
+<ul>
+<div class="nav">
+<a href="Home.html">HOME</a>
+<a href="About me.html">ABOUT</a>
+<a href="Blog.html">BLOG</a>
+<a href="contact.html">CONTACT</a>
+</div>
+</ul>
+<div class="wrapper">
+  <hi>About me</hi>
+  <div class="About">
+    <div class="About_me">
+      <h3>Background</h3>
+      <p>Wato isacko is a great lady from Marsabit</p>
+    </div>
+    <div class="About_me"></div>
+    <h3>Goals</h3>
+    <p>my strength</p>
+    </div>
+    <div class="About_me"></div>
+    <h3>Hobbies</h3>
+    <p>love singing</p>
+    
+
+
+
+
+</div>
+</div>
+</header>
+</body>
+</html>
